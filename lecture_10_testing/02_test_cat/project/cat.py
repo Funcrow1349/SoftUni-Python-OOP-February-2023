@@ -19,3 +19,5 @@ class Cat:
             raise Exception('Cannot sleep while hungry')
 
         self.sleepy = False
+
+
