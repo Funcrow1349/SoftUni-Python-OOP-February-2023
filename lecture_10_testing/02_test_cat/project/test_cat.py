@@ -1,5 +1,5 @@
 import unittest
-from project.cat import Cat
+from cat import Cat
 
 
 class CatTests(unittest.TestCase):
